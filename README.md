@@ -1,4 +1,4 @@
-# maginary-ai
+# Maginary
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-maginary-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://maginary.ai/
+Maginary provides AI-powered image and video generation tools that turn plain text prompts into high-quality visual content. Trusted by over 600 creators worldwide, the platform offers a simple, no‑prompt‑engineering interface, multilingual support, and transparent pay‑as‑you‑go pricing. Users can generate diverse outputs ranging from photorealistic portraits to abstract art, with options for commercial rights and API integration for developers.
+
+**Areas:** AI Generation · Image Generation · Video Generation · API · Creative Tools
+
+## Maginary on APIs.io
+
+Everything profiled for Maginary is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/maginary-ai/](https://apis.io/providers/maginary-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [Maginary API Keys API](https://apis.io/apis/maginary-ai/maginary-ai-api-keys-api/) — The api-keys API from Maginary — 2 operation(s) for api-keys.
+- [Maginary Auth API](https://apis.io/apis/maginary-ai/maginary-ai-auth-api/) — The auth API from Maginary — 3 operation(s) for auth.
+- [Maginary Checkout Stripe API](https://apis.io/apis/maginary-ai/maginary-ai-checkout-stripe-api/) — The checkout-stripe API from Maginary — 1 operation(s) for checkout-stripe.
+- [Maginary Credit Check API](https://apis.io/apis/maginary-ai/maginary-ai-credit-check-api/) — The credit-check API from Maginary — 1 operation(s) for credit-check.
+- [Maginary Credits Config API](https://apis.io/apis/maginary-ai/maginary-ai-credits-config-api/) — The credits-config API from Maginary — 1 operation(s) for credits-config.
+- [Maginary Events API](https://apis.io/apis/maginary-ai/maginary-ai-events-api/) — The events API from Maginary — 2 operation(s) for events.
+- [Maginary Faqs API](https://apis.io/apis/maginary-ai/maginary-ai-faqs-api/) — The faqs API from Maginary — 3 operation(s) for faqs.
+- [Maginary Gens API](https://apis.io/apis/maginary-ai/maginary-ai-gens-api/) — The gens API from Maginary — 8 operation(s) for gens.
+- [Maginary Image Of The Day API](https://apis.io/apis/maginary-ai/maginary-ai-image-of-the-day-api/) — The image-of-the-day API from Maginary — 1 operation(s) for image-of-the-day.
+- [Maginary Products API](https://apis.io/apis/maginary-ai/maginary-ai-products-api/) — The products API from Maginary — 2 operation(s) for products.
+- [Maginary Profiles API](https://apis.io/apis/maginary-ai/maginary-ai-profiles-api/) — The profiles API from Maginary — 6 operation(s) for profiles.
+- [Maginary Public API](https://apis.io/apis/maginary-ai/maginary-ai-public-api/) — The public API from Maginary — 1 operation(s) for public.
+- [Maginary Recipes API](https://apis.io/apis/maginary-ai/maginary-ai-recipes-api/) — The recipes API from Maginary — 12 operation(s) for recipes.
+- [Maginary Reviews API](https://apis.io/apis/maginary-ai/maginary-ai-reviews-api/) — The reviews API from Maginary — 2 operation(s) for reviews.
+- [Maginary Seo API](https://apis.io/apis/maginary-ai/maginary-ai-seo-api/) — The seo API from Maginary — 5 operation(s) for seo.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Maginary Agentic Access](https://apis.io/agentic-access/maginary-ai/maginary-ai-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Maginary API Rules](https://apis.io/rules/maginary-ai/maginary-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Maginary Authentication](https://apis.io/security/maginary-ai/maginary-ai-authentication/)
+- [Maginary Domain Security](https://apis.io/security/maginary-ai/maginary-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://maginary.ai/)
+- [Documentation](https://maginary.ai/docs)
+- [Getting started](https://maginary.ai/blog/api-quickstart-guide)
+- [API reference](https://maginary.ai/docs/api)
+- [Changelog](https://maginary.ai/ideas/releases)
+- [Blog](https://maginary.ai/blog)
+- [Terms of service](https://maginary.ai/terms)
+- [Privacy policy](https://maginary.ai/privacy)
+- [Status](https://status.maginary.ai)
+
+## API Evangelist rating
+
+**Kin Score 42.3** — developing · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 41.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 28.6 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 17.0 |
+
+**Agent readiness 39.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/maginary-ai/](https://apis.io/providers/maginary-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Maginary: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/maginary-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
